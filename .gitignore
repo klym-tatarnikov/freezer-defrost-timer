@@ -1,0 +1,6 @@
+# Build outputs
+Debug/
+Release/
+
+# Atmel Studio user file
+*.atsuo
