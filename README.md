@@ -33,6 +33,11 @@ Open `tim01-6.2.atsln` in **Atmel Studio 6.2** (or Microchip Studio) and build. 
 
 A pre-built `.hex` file is available on the [Releases](../../releases) page.
 
+## Original Device
+
+This firmware is a replacement timer for the **TIM-01** defrost controller.  
+Datasheet (PDF): [tim-01_155.pdf](https://monitor.espec.ws/files/tim-01_155.pdf)
+
 ## License
 
 MIT
